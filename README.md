@@ -4,7 +4,7 @@ I am glad to see you have navigated to my page.
 
 I am Owen Wienczkowski, I am graduating from Penn State in May 2024 with a B.S. in Software Engineering and a Minor in Computer Science.
 
-Starting October 2025 I will be a graduate student at Durham University where I will be earning my Master's of Data Science.
+Starting Fall 2025 I will be a graduate student at Durham University where I will be earning my Master's of Data Science.
 
 My interests include deep learning and mathematics, primarily statistics. 
 
