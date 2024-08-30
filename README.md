@@ -12,7 +12,8 @@ I am ambitous to learn and am actively seeking opportunities to do so.
 
 ## Contact Me
 Feel free to reach me via email or LinkedIn:
-  
-  wxyzowen@gmail.com
-  [![LinkedIn](https://i.sstatic.net/gVE0j.png) Owen Wienczkowski](https://www.linkedin.com/in/owenwienczkowski/)
+
+  [![LinkedIn](https://img.icons8.com/?size=20&id=qyRpAggnV0zH&format=png&color=000000) wxyzowen@gmail.com](mailto:wxyzowen@gmail.com)
+  &nbsp;
+  [![LinkedIn](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/owenwienczkowski/)
   &nbsp;
