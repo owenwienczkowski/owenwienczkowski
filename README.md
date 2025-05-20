@@ -12,7 +12,7 @@ I am ambitous to learn and am actively seeking opportunities to do so.
 
 ## Explore my Portfolio
 
-📄 [Download My AI/ML Project Portfolio (PDF)](./Owen_Wienczkowski_AI_ML_Portfolio_Guide.pdf)
+📄 [Preview My AI/ML Project Portfolio (PDF)](./Owen_Wienczkowski_AI_ML_Portfolio_Guide.pdf)
 
 ## Contact Me
 Feel free to reach me via email or LinkedIn:
